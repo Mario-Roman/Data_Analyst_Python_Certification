@@ -15,4 +15,4 @@ while not (salir):
         if(numero>=1 and numero<=len(meses)):
             print(meses[numero-1])
         else:
-            print("Inserta un numero entre 1 y ",len(meses))
+            print(f"Inserta un numero entre 1 y ",len(meses))
