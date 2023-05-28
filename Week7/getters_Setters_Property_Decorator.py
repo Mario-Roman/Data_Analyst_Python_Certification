@@ -31,3 +31,5 @@ print(cuenta1.moneda)
 
 cuenta1.moneda = 'Euros'
 print(cuenta1.moneda)
+
+#setters and getters whit poperty decorator
