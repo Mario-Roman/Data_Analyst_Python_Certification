@@ -51,8 +51,8 @@ class Persona:
 persona = Persona()
 
 # Establecer los atributos utilizando los setters
-persona.set_nombre("Juan")
-persona.set_edad(25)
+persona.set_nombre("Mario")
+persona.set_edad(27)
 persona.set_dni("123456789")
 
 # Obtener los atributos utilizando los getters
